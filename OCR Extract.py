@@ -18,7 +18,7 @@ reader = easyocr.Reader(['en'])
 
 mydb = sql.connect(host="localhost",
                    user="root",
-                   password="Jeni27589$",
+                   password="********",
                    database= "business_card",
 		   auth_plugin ="mysql_native_password"
                   )
